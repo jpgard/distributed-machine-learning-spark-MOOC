@@ -14,3 +14,5 @@ Note that substantial portions of the code for this assignment were written by t
 * https://jaceklaskowski.gitbooks.io/mastering-apache-spark/content/spark-mllib-pipelines.html
 * https://databricks.com/blog/2015/01/07/ml-pipelines-a-new-high-level-api-for-mllib.html
 * https://youtu.be/OednhGRp938
+* http://datascience-enthusiast.com/Python/pythonindex.html
+* http://datascience-enthusiast.com/Python/DataFrame_word_count.html
